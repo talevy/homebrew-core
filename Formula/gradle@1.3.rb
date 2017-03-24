@@ -1,8 +1,8 @@
-class GradleAT214 < Formula
+class GradleAT13 < Formula
   desc "Build system based on the Groovy language"
   homepage "https://www.gradle.org/"
-  url "https://downloads.gradle.org/distributions/gradle-2.14-all.zip"
-  sha256 "65bbc0ef9c48be86fb06522fc927d59dcc7c04266f2bb8156be76971f7c3fc4a"
+  url "https://downloads.gradle.org/distributions/gradle-1.3-all.zip"
+  sha256 "c8572e9579e2300c5e2e8ae8f1a2433d9fd7ad9a4b1e721a5ee588c72fbf7799"
 
   bottle :unneeded
 
